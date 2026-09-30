@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 0a08949c6eb4bff439bf2572c662df6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6622154078675539380
+    second: Hud_and_Inventory_0
+  - first:
+      213: -6350062635970550360
+    second: Hud_and_Inventory_1
+  - first:
+      213: 6913258940450191429
+    second: Hud_and_Inventory_2
+  - first:
+      213: 7829049841186432737
+    second: Hud_and_Inventory_3
+  - first:
+      213: -6522584980911077055
+    second: Hud_and_Inventory_4
+  - first:
+      213: 2262670481494599641
+    second: Hud_and_Inventory_5
+  - first:
+      213: -5063996187004951227
+    second: Hud_and_Inventory_6
+  - first:
+      213: -437312912283870089
+    second: Hud_and_Inventory_7
+  - first:
+      213: 7444969190307959902
+    second: Hud_and_Inventory_8
+  - first:
+      213: -5170908196812851110
+    second: Hud_and_Inventory_9
+  - first:
+      213: -6924974486629037705
+    second: Hud_and_Inventory_10
+  - first:
+      213: -8942935415194137132
+    second: Hud_and_Inventory_11
+  - first:
+      213: -2788600587816894080
+    second: Hud_and_Inventory_12
+  - first:
+      213: -7478439356376383203
+    second: Hud_and_Inventory_13
+  - first:
+      213: 7503289076272897666
+    second: Hud_and_Inventory_14
+  - first:
+      213: -780132989241258901
+    second: Hud_and_Inventory_15
+  - first:
+      213: 2476525909674215685
+    second: Hud_and_Inventory_16
+  - first:
+      213: -184350945638502060
+    second: Hud_and_Inventory_17
+  - first:
+      213: 8585596626012614442
+    second: Hud_and_Inventory_18
+  - first:
+      213: -877605412617978173
+    second: Hud_and_Inventory_19
+  - first:
+      213: 6680290434593613964
+    second: Hud_and_Inventory_20
+  - first:
+      213: -5700714825143046452
+    second: Hud_and_Inventory_21
+  - first:
+      213: 8580485009919068463
+    second: Hud_and_Inventory_22
+  - first:
+      213: -5566213147087351416
+    second: Hud_and_Inventory_23
+  - first:
+      213: -7265193284446384532
+    second: Hud_and_Inventory_24
+  - first:
+      213: -3273129175046931054
+    second: Hud_and_Inventory_25
+  - first:
+      213: -193133757779975373
+    second: Hud_and_Inventory_26
+  - first:
+      213: 8848410957396163031
+    second: Hud_and_Inventory_27
+  - first:
+      213: 1049068198701525480
+    second: Hud_and_Inventory_28
+  - first:
+      213: -3612164128259506126
+    second: Hud_and_Inventory_29
+  - first:
+      213: 3597600049133116374
+    second: Hud_and_Inventory_30
+  - first:
+      213: 7021556897489478235
+    second: Hud_and_Inventory_31
+  - first:
+      213: -7774707779781043470
+    second: Hud_and_Inventory_32
+  - first:
+      213: -6419358104034618815
+    second: Hud_and_Inventory_33
+  - first:
+      213: 1624823902796022061
+    second: Hud_and_Inventory_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hud_and_Inventory_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ae3ac73f16914a0800000000000000
+      internalID: -6622154078675539380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 134
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5ae793dab00e7a0800000000000000
+      internalID: -6350062635970550360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 133
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b3d9d064d0ff50800000000000000
+      internalID: 6913258940450191429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 134
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6eeb8b95f56ac60800000000000000
+      internalID: 7829049841186432737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1494f7b948f1b75a0800000000000000
+      internalID: -6522584980911077055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d76f3590de966f10800000000000000
+      internalID: 2262670481494599641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54523a15c4219b9b0800000000000000
+      internalID: -5063996187004951227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 123
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd0a7293a5ee9f0800000000000000
+      internalID: -437312912283870089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 122
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5498009808d15760800000000000000
+      internalID: 7444969190307959902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 123
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5870d2446e3d38b0800000000000000
+      internalID: -5170908196812851110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77945ddf46c85ef90800000000000000
+      internalID: -6924974486629037705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc7102f9f44e380800000000000000
+      internalID: -8942935415194137132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0818abe3a86ec49d0800000000000000
+      internalID: -2788600587816894080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1182e0270f373890800000000000000
+      internalID: -7478439356376383203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e905629a9012860800000000000000
+      internalID: 7503289076272897666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 101
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c06bafd296c25f0800000000000000
+      internalID: -780132989241258901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ce2391336e5220800000000000000
+      internalID: 2476525909674215685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451b53baacd017df0800000000000000
+      internalID: -184350945638502060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f264694aa262770800000000000000
+      internalID: 8585596626012614442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 79
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef1f7e68e12d3f0800000000000000
+      internalID: -877605412617978173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88646ea1c825bc50800000000000000
+      internalID: 6680290434593613964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceab89f11ef2e0b0800000000000000
+      internalID: -5700714825143046452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f294ac8b7a1041770800000000000000
+      internalID: 8580485009919068463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881dfbf32a6d0c2b0800000000000000
+      internalID: -5566213147087351416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 57
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e05005339dc2b90800000000000000
+      internalID: -7265193284446384532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d3c596b528392d0800000000000000
+      internalID: -3273129175046931054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 46
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333636dded9d15df0800000000000000
+      internalID: -193133757779975373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9b54682eedbca70800000000000000
+      internalID: 8848410957396163031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 35
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e963c0f7f90f8e00800000000000000
+      internalID: 1049068198701525480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2300fa80dd30fddc0800000000000000
+      internalID: -3612164128259506126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd18c0f2e3de130800000000000000
+      internalID: 3597600049133116374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ed05ebc4917160800000000000000
+      internalID: 7021556897489478235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5fa96770ba1490800000000000000
+      internalID: -7774707779781043470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142ddfac0dbd9e6a0800000000000000
+      internalID: -6419358104034618815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud_and_Inventory_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2188bc1bb88c8610800000000000000
+      internalID: 1624823902796022061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hud_and_Inventory_0: -6622154078675539380
+      Hud_and_Inventory_1: -6350062635970550360
+      Hud_and_Inventory_10: -6924974486629037705
+      Hud_and_Inventory_11: -8942935415194137132
+      Hud_and_Inventory_12: -2788600587816894080
+      Hud_and_Inventory_13: -7478439356376383203
+      Hud_and_Inventory_14: 7503289076272897666
+      Hud_and_Inventory_15: -780132989241258901
+      Hud_and_Inventory_16: 2476525909674215685
+      Hud_and_Inventory_17: -184350945638502060
+      Hud_and_Inventory_18: 8585596626012614442
+      Hud_and_Inventory_19: -877605412617978173
+      Hud_and_Inventory_2: 6913258940450191429
+      Hud_and_Inventory_20: 6680290434593613964
+      Hud_and_Inventory_21: -5700714825143046452
+      Hud_and_Inventory_22: 8580485009919068463
+      Hud_and_Inventory_23: -5566213147087351416
+      Hud_and_Inventory_24: -7265193284446384532
+      Hud_and_Inventory_25: -3273129175046931054
+      Hud_and_Inventory_26: -193133757779975373
+      Hud_and_Inventory_27: 8848410957396163031
+      Hud_and_Inventory_28: 1049068198701525480
+      Hud_and_Inventory_29: -3612164128259506126
+      Hud_and_Inventory_3: 7829049841186432737
+      Hud_and_Inventory_30: 3597600049133116374
+      Hud_and_Inventory_31: 7021556897489478235
+      Hud_and_Inventory_32: -7774707779781043470
+      Hud_and_Inventory_33: -6419358104034618815
+      Hud_and_Inventory_34: 1624823902796022061
+      Hud_and_Inventory_4: -6522584980911077055
+      Hud_and_Inventory_5: 2262670481494599641
+      Hud_and_Inventory_6: -5063996187004951227
+      Hud_and_Inventory_7: -437312912283870089
+      Hud_and_Inventory_8: 7444969190307959902
+      Hud_and_Inventory_9: -5170908196812851110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
