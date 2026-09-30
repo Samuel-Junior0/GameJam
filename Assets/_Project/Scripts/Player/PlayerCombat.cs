@@ -10,20 +10,31 @@ public class PlayerCombat : MonoBehaviour
     public WeaponType currentWeapon = WeaponType.Melee;
 
     [Header("Referências Visuais/Objetos")]
-    public GameObject meleeObject;  // Objeto visual da faca (se houver)
-    public GameObject gunObject;    // Objeto visual da arma (se houver)
+    public GameObject meleeObject;  // Objeto/Hitbox da faca/soco
+    public GameObject gunObject;    // Objeto da arma (Gun)
+    [Tooltip("Opcional: pivô (objeto vazio no centro do Player) que gira na direção do golpe. " +
+             "Coloque o meleeObject como filho dele, deslocado à frente.")]
+    public Transform meleePivot;
+
+    [Header("Mira durante o ataque")]
+    [Tooltip("Quanto tempo a direção do golpe fica travada. Ideal: duração do clipe Punch.")]
+    public float meleeAimLock = 0.3f;
+    [Tooltip("Ideal: duração do clipe Shoot.")]
+    public float rangedAimLock = 0.25f;
 
     PlayerController controller;
     MeleeAttack melee;
     RangedWeapon ranged;
     Animator animator;
+    Camera cam;
 
     void Awake()
     {
         controller = GetComponent<PlayerController>();
-        melee = GetComponentInChildren<MeleeAttack>();
-        ranged = GetComponentInChildren<RangedWeapon>();
+        melee = GetComponentInChildren<MeleeAttack>(true);
+        ranged = GetComponentInChildren<RangedWeapon>(true);
         animator = GetComponentInChildren<Animator>();
+        cam = Camera.main;
     }
 
     void Start()
@@ -76,14 +87,14 @@ public class PlayerCombat : MonoBehaviour
             }
         }
 
-        // 3. Troca via GAMEPAD / CONTROLE (Y / Triângulo, Bumpers LB/RB, ou D-Pad)
+        // 3. Troca via GAMEPAD / CONTROLE
         if (gamepad != null)
         {
-            bool togglePressed = gamepad.buttonNorth.wasPressedThisFrame ||  // Botão Y (Xbox) / Triângulo (PlayStation)
-                                 gamepad.leftShoulder.wasPressedThisFrame || // LB / L1
-                                 gamepad.rightShoulder.wasPressedThisFrame ||// RB / R1
-                                 gamepad.dpad.up.wasPressedThisFrame ||       // D-Pad Para Cima
-                                 gamepad.dpad.down.wasPressedThisFrame;      // D-Pad Para Baixo
+            bool togglePressed = gamepad.buttonNorth.wasPressedThisFrame ||
+                                 gamepad.leftShoulder.wasPressedThisFrame ||
+                                 gamepad.rightShoulder.wasPressedThisFrame ||
+                                 gamepad.dpad.up.wasPressedThisFrame ||
+                                 gamepad.dpad.down.wasPressedThisFrame;
 
             if (togglePressed)
             {
@@ -119,9 +130,37 @@ public class PlayerCombat : MonoBehaviour
 
     void UpdateWeaponVisuals()
     {
-        // Ativa/desativa os GameObjects das armas conforme a seleção
         if (meleeObject != null) meleeObject.SetActive(currentWeapon == WeaponType.Melee);
         if (gunObject != null) gunObject.SetActive(currentWeapon == WeaponType.Ranged);
+    }
+
+    // Direção da mira: analógico direito (controle) > mouse > última direção do personagem.
+    // Não depende do WeaponAim, então funciona mesmo com a arma de fogo desativada.
+    Vector2 GetAimDirection()
+    {
+        var gamepad = Gamepad.current;
+        if (gamepad != null)
+        {
+            Vector2 stick = gamepad.rightStick.ReadValue();
+            if (stick.sqrMagnitude > 0.25f) return stick.normalized;
+        }
+
+        var mouse = Mouse.current;
+        if (mouse != null && cam != null)
+        {
+            Vector3 mouseWorld = cam.ScreenToWorldPoint(mouse.position.ReadValue());
+            Vector2 dir = (Vector2)mouseWorld - (Vector2)transform.position;
+            if (dir.sqrMagnitude > 0.01f) return dir.normalized;
+        }
+
+        return controller.FacingDirection;
+    }
+
+    void AimMeleeVisual(Vector2 direction)
+    {
+        if (meleePivot == null) return;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        meleePivot.rotation = Quaternion.Euler(0f, 0f, angle);
     }
 
     void HandleAttackInput()
@@ -130,26 +169,30 @@ public class PlayerCombat : MonoBehaviour
         var mouse = Mouse.current;
         var gamepad = Gamepad.current;
 
-        // Aceita Teclado (J/K), Mouse (Esquerdo/Direito) ou Gamepad (Gatilhos RT/RB e Botão X/A)
         bool attackInput = (keyboard != null && (keyboard.jKey.wasPressedThisFrame || keyboard.kKey.wasPressedThisFrame)) ||
-                          (mouse != null && (mouse.leftButton.wasPressedThisFrame || mouse.rightButton.wasPressedThisFrame)) ||
-                          (gamepad != null && (gamepad.rightTrigger.wasPressedThisFrame || gamepad.buttonWest.wasPressedThisFrame));
+                           (mouse != null && (mouse.leftButton.wasPressedThisFrame || mouse.rightButton.wasPressedThisFrame)) ||
+                           (gamepad != null && (gamepad.rightTrigger.wasPressedThisFrame || gamepad.buttonWest.wasPressedThisFrame));
 
         if (!attackInput) return;
 
+        Vector2 aimDirection = GetAimDirection();
+
         if (currentWeapon == WeaponType.Melee)
         {
-            // Dispara o Trigger de facada/soco
+            // Se o facão está em cooldown, nada acontece (nem animação, nem troca de direção)
+            if (melee != null && !melee.TryAttack(aimDirection)) return;
+
+            AimMeleeVisual(aimDirection);
+            controller.SetFacingDirection(aimDirection, meleeAimLock);
             if (animator != null) animator.SetTrigger("Punch");
-
-            if (melee != null) melee.TryAttack(controller.FacingDirection);
         }
-        else if (currentWeapon == WeaponType.Ranged)
+        else
         {
-            // Dispara o Trigger de tiro
-            if (animator != null) animator.SetTrigger("Shoot");
+            // Em recarga ou cooldown: não toca a animação de tiro
+            if (ranged != null && !ranged.TryShoot(aimDirection)) return;
 
-            if (ranged != null) ranged.TryShoot(controller.FacingDirection);
+            controller.SetFacingDirection(aimDirection, rangedAimLock);
+            if (animator != null) animator.SetTrigger("Shoot");
         }
     }
 }
