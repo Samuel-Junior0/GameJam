@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 45a90970405a871bc942481d5eef79d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3445778344423202111
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_0'
+  - first:
+      213: -2309072266037916008
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_1'
+  - first:
+      213: 5792933076587486325
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_2'
+  - first:
+      213: -7485195713890137446
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_3'
+  - first:
+      213: 2213678073698984158
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_4'
+  - first:
+      213: -2427218438966852487
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_5'
+  - first:
+      213: -4976737383432855288
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_6'
+  - first:
+      213: 6380985626244623850
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_7'
+  - first:
+      213: -8978588794473898802
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_8'
+  - first:
+      213: 765335493520426766
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_9'
+  - first:
+      213: -2633844436987709455
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_10'
+  - first:
+      213: 2483550923425156376
+    second: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_0'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d1412d52dd1df20800000000000000
+      internalID: 3445778344423202111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_1'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e8a1e020784ffd0800000000000000
+      internalID: -2309072266037916008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_2'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c9b9dd0f1a46050800000000000000
+      internalID: 5792933076587486325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_3'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a4d4f082e3f1890800000000000000
+      internalID: -7485195713890137446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_4'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed026edba7098be10800000000000000
+      internalID: 2213678073698984158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_5'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9744a1190b9c05ed0800000000000000
+      internalID: -2427218438966852487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_6'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801e318b7b31feab0800000000000000
+      internalID: -4976737383432855288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_7'
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed2f218e90dd8850800000000000000
+      internalID: 6380985626244623850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_8'
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9411ef05a56380800000000000000
+      internalID: -8978588794473898802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_9'
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07884193940f9a00800000000000000
+      internalID: 765335493520426766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_10'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f775b37074b27bd0800000000000000
+      internalID: -2633844436987709455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_11'
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d895c0868577220800000000000000
+      internalID: 2483550923425156376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_0': 3445778344423202111
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_1': -2309072266037916008
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_10': -2633844436987709455
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_11': 2483550923425156376
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_2': 5792933076587486325
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_3': -7485195713890137446
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_4': 2213678073698984158
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_5': -2427218438966852487
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_6': -4976737383432855288
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_7': 6380985626244623850
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_8': -8978588794473898802
+      '[SHOOT WITH MUZZLE FLASH] Revolver - Colt 45_9': 765335493520426766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

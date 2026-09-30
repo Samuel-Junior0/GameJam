@@ -1,0 +1,4238 @@
+fileFormatVersion: 2
+guid: 65be4eafab27f1d76b43e82c13d8767d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4958770623271187148
+    second: 16x32 All Animations-Sheet_0
+  - first:
+      213: -4966096766602161669
+    second: 16x32 All Animations-Sheet_1
+  - first:
+      213: -691707838187715979
+    second: 16x32 All Animations-Sheet_2
+  - first:
+      213: 7118435127288625613
+    second: 16x32 All Animations-Sheet_3
+  - first:
+      213: 1280534733306761596
+    second: 16x32 All Animations-Sheet_4
+  - first:
+      213: 76495544707546760
+    second: 16x32 All Animations-Sheet_5
+  - first:
+      213: -4275741256458237780
+    second: 16x32 All Animations-Sheet_6
+  - first:
+      213: -5762936439065793914
+    second: 16x32 All Animations-Sheet_7
+  - first:
+      213: -327738319388453857
+    second: 16x32 All Animations-Sheet_8
+  - first:
+      213: 5606583489393389119
+    second: 16x32 All Animations-Sheet_9
+  - first:
+      213: -1830299560588489412
+    second: 16x32 All Animations-Sheet_10
+  - first:
+      213: 4625513774435505376
+    second: 16x32 All Animations-Sheet_11
+  - first:
+      213: -6295947669275606730
+    second: 16x32 All Animations-Sheet_12
+  - first:
+      213: 2455499475112943962
+    second: 16x32 All Animations-Sheet_13
+  - first:
+      213: -8671729999460563066
+    second: 16x32 All Animations-Sheet_14
+  - first:
+      213: -3701628121141595548
+    second: 16x32 All Animations-Sheet_15
+  - first:
+      213: -62745930409371679
+    second: 16x32 All Animations-Sheet_16
+  - first:
+      213: 4685051522935805056
+    second: 16x32 All Animations-Sheet_17
+  - first:
+      213: -8707931226169801901
+    second: 16x32 All Animations-Sheet_18
+  - first:
+      213: 6928624055913306066
+    second: 16x32 All Animations-Sheet_19
+  - first:
+      213: -7602002488537164512
+    second: 16x32 All Animations-Sheet_20
+  - first:
+      213: 1367386073209171164
+    second: 16x32 All Animations-Sheet_21
+  - first:
+      213: 6741745477092474223
+    second: 16x32 All Animations-Sheet_22
+  - first:
+      213: 4779699270672933947
+    second: 16x32 All Animations-Sheet_23
+  - first:
+      213: 3973899297658983195
+    second: 16x32 All Animations-Sheet_24
+  - first:
+      213: -2744546301006065108
+    second: 16x32 All Animations-Sheet_25
+  - first:
+      213: 2233551628648919342
+    second: 16x32 All Animations-Sheet_26
+  - first:
+      213: -8647287494683024534
+    second: 16x32 All Animations-Sheet_27
+  - first:
+      213: 5933666619103655751
+    second: 16x32 All Animations-Sheet_28
+  - first:
+      213: 7769356549746743836
+    second: 16x32 All Animations-Sheet_29
+  - first:
+      213: -7600727541959805827
+    second: 16x32 All Animations-Sheet_30
+  - first:
+      213: 2398594995221264148
+    second: 16x32 All Animations-Sheet_31
+  - first:
+      213: -349707449188903900
+    second: 16x32 All Animations-Sheet_32
+  - first:
+      213: 3129717094385629748
+    second: 16x32 All Animations-Sheet_33
+  - first:
+      213: 4963929169398101907
+    second: 16x32 All Animations-Sheet_34
+  - first:
+      213: -13220741753313339
+    second: 16x32 All Animations-Sheet_35
+  - first:
+      213: -647676141410738178
+    second: 16x32 All Animations-Sheet_36
+  - first:
+      213: 6757330426885955641
+    second: 16x32 All Animations-Sheet_37
+  - first:
+      213: -8435757746800294041
+    second: 16x32 All Animations-Sheet_38
+  - first:
+      213: 7962500205728231078
+    second: 16x32 All Animations-Sheet_39
+  - first:
+      213: -3159602729362829592
+    second: 16x32 All Animations-Sheet_40
+  - first:
+      213: 7432490846361486397
+    second: 16x32 All Animations-Sheet_41
+  - first:
+      213: 7489266273250657797
+    second: 16x32 All Animations-Sheet_42
+  - first:
+      213: -2152561333557109915
+    second: 16x32 All Animations-Sheet_43
+  - first:
+      213: -4195976457482963548
+    second: 16x32 All Animations-Sheet_44
+  - first:
+      213: -869015780401743920
+    second: 16x32 All Animations-Sheet_45
+  - first:
+      213: -7637903647156523105
+    second: 16x32 All Animations-Sheet_46
+  - first:
+      213: 2664665828029006987
+    second: 16x32 All Animations-Sheet_47
+  - first:
+      213: -908386785642357053
+    second: 16x32 All Animations-Sheet_48
+  - first:
+      213: 1002705262592925075
+    second: 16x32 All Animations-Sheet_49
+  - first:
+      213: 1195417585158449553
+    second: 16x32 All Animations-Sheet_50
+  - first:
+      213: -5947299807267204616
+    second: 16x32 All Animations-Sheet_51
+  - first:
+      213: -9095131574486015964
+    second: 16x32 All Animations-Sheet_52
+  - first:
+      213: 8760243075860763981
+    second: 16x32 All Animations-Sheet_53
+  - first:
+      213: -8427785094611138861
+    second: 16x32 All Animations-Sheet_54
+  - first:
+      213: -6513390252078741126
+    second: 16x32 All Animations-Sheet_55
+  - first:
+      213: 4394552058626293160
+    second: 16x32 All Animations-Sheet_56
+  - first:
+      213: -6341859004501959211
+    second: 16x32 All Animations-Sheet_57
+  - first:
+      213: -43004805107446274
+    second: 16x32 All Animations-Sheet_58
+  - first:
+      213: 691146770231224102
+    second: 16x32 All Animations-Sheet_59
+  - first:
+      213: 1827433975787560548
+    second: 16x32 All Animations-Sheet_60
+  - first:
+      213: 2733358260498785681
+    second: 16x32 All Animations-Sheet_61
+  - first:
+      213: 5887663112825106784
+    second: 16x32 All Animations-Sheet_62
+  - first:
+      213: -1105600383971950509
+    second: 16x32 All Animations-Sheet_63
+  - first:
+      213: 147828979675477614
+    second: 16x32 All Animations-Sheet_64
+  - first:
+      213: -6046781881939861273
+    second: 16x32 All Animations-Sheet_65
+  - first:
+      213: 4997884724412467061
+    second: 16x32 All Animations-Sheet_66
+  - first:
+      213: 8354207917717168403
+    second: 16x32 All Animations-Sheet_67
+  - first:
+      213: 8902503969719260955
+    second: 16x32 All Animations-Sheet_68
+  - first:
+      213: -4367233884616924197
+    second: 16x32 All Animations-Sheet_69
+  - first:
+      213: -781299656421634484
+    second: 16x32 All Animations-Sheet_70
+  - first:
+      213: -8662396554171959527
+    second: 16x32 All Animations-Sheet_71
+  - first:
+      213: 8693533266816668918
+    second: 16x32 All Animations-Sheet_72
+  - first:
+      213: 7428121886171835951
+    second: 16x32 All Animations-Sheet_73
+  - first:
+      213: -2068514069240600216
+    second: 16x32 All Animations-Sheet_74
+  - first:
+      213: 2294875279029300294
+    second: 16x32 All Animations-Sheet_75
+  - first:
+      213: -3844020257277637004
+    second: 16x32 All Animations-Sheet_76
+  - first:
+      213: -4066567847891362157
+    second: 16x32 All Animations-Sheet_77
+  - first:
+      213: -1070662241782744210
+    second: 16x32 All Animations-Sheet_78
+  - first:
+      213: -9206612253703180089
+    second: 16x32 All Animations-Sheet_79
+  - first:
+      213: 2514065401555356643
+    second: 16x32 All Animations-Sheet_80
+  - first:
+      213: -3600641119261762745
+    second: 16x32 All Animations-Sheet_81
+  - first:
+      213: 4012010613999282922
+    second: 16x32 All Animations-Sheet_82
+  - first:
+      213: 8781654669493418270
+    second: 16x32 All Animations-Sheet_83
+  - first:
+      213: -7081712186901897770
+    second: 16x32 All Animations-Sheet_84
+  - first:
+      213: -1517201132181392985
+    second: 16x32 All Animations-Sheet_85
+  - first:
+      213: -2955274071252284592
+    second: 16x32 All Animations-Sheet_86
+  - first:
+      213: 4961661621874973089
+    second: 16x32 All Animations-Sheet_87
+  - first:
+      213: 3003365844501463586
+    second: 16x32 All Animations-Sheet_88
+  - first:
+      213: -1270185458645003033
+    second: 16x32 All Animations-Sheet_89
+  - first:
+      213: 60110106241989749
+    second: 16x32 All Animations-Sheet_90
+  - first:
+      213: -6462225961574564427
+    second: 16x32 All Animations-Sheet_91
+  - first:
+      213: 5974726821979193152
+    second: 16x32 All Animations-Sheet_92
+  - first:
+      213: 6396211324002515646
+    second: 16x32 All Animations-Sheet_93
+  - first:
+      213: 3403338297546763936
+    second: 16x32 All Animations-Sheet_94
+  - first:
+      213: -1691063405829172471
+    second: 16x32 All Animations-Sheet_95
+  - first:
+      213: 7285880532750646474
+    second: 16x32 All Animations-Sheet_96
+  - first:
+      213: 9042931208366060137
+    second: 16x32 All Animations-Sheet_97
+  - first:
+      213: 3552270789098052838
+    second: 16x32 All Animations-Sheet_98
+  - first:
+      213: 4710506854346135086
+    second: 16x32 All Animations-Sheet_99
+  - first:
+      213: 2133260468445024074
+    second: 16x32 All Animations-Sheet_100
+  - first:
+      213: -5508519218060131964
+    second: 16x32 All Animations-Sheet_101
+  - first:
+      213: 3632618160131274102
+    second: 16x32 All Animations-Sheet_102
+  - first:
+      213: 1630908125984793291
+    second: 16x32 All Animations-Sheet_103
+  - first:
+      213: 6297945142212873436
+    second: 16x32 All Animations-Sheet_104
+  - first:
+      213: 6556308202303038846
+    second: 16x32 All Animations-Sheet_105
+  - first:
+      213: -7249513625814080387
+    second: 16x32 All Animations-Sheet_106
+  - first:
+      213: -6571619981322824397
+    second: 16x32 All Animations-Sheet_107
+  - first:
+      213: 3733550482111149014
+    second: 16x32 All Animations-Sheet_108
+  - first:
+      213: 543380243120951192
+    second: 16x32 All Animations-Sheet_109
+  - first:
+      213: -2478713353160107430
+    second: 16x32 All Animations-Sheet_110
+  - first:
+      213: -3808490031946870842
+    second: 16x32 All Animations-Sheet_111
+  - first:
+      213: 1589626819486851483
+    second: 16x32 All Animations-Sheet_112
+  - first:
+      213: 3177740147038693833
+    second: 16x32 All Animations-Sheet_113
+  - first:
+      213: 5870155386101647642
+    second: 16x32 All Animations-Sheet_114
+  - first:
+      213: -3396854204951032494
+    second: 16x32 All Animations-Sheet_115
+  - first:
+      213: -1577008368443014892
+    second: 16x32 All Animations-Sheet_116
+  - first:
+      213: 7303967751109115005
+    second: 16x32 All Animations-Sheet_117
+  - first:
+      213: -3059930873959633962
+    second: 16x32 All Animations-Sheet_118
+  - first:
+      213: -674252872986240297
+    second: 16x32 All Animations-Sheet_119
+  - first:
+      213: -2315308726946396053
+    second: 16x32 All Animations-Sheet_120
+  - first:
+      213: -5325928885115616650
+    second: 16x32 All Animations-Sheet_121
+  - first:
+      213: 3240030935329494418
+    second: 16x32 All Animations-Sheet_122
+  - first:
+      213: -8204731703175565380
+    second: 16x32 All Animations-Sheet_123
+  - first:
+      213: -6948863834342435867
+    second: 16x32 All Animations-Sheet_124
+  - first:
+      213: -2730444361104844217
+    second: 16x32 All Animations-Sheet_125
+  - first:
+      213: 5793115528631206860
+    second: 16x32 All Animations-Sheet_126
+  - first:
+      213: -9216986218536111361
+    second: 16x32 All Animations-Sheet_127
+  - first:
+      213: -8282172675400771586
+    second: 16x32 All Animations-Sheet_128
+  - first:
+      213: 9017842037604301503
+    second: 16x32 All Animations-Sheet_129
+  - first:
+      213: 2171644412991391933
+    second: 16x32 All Animations-Sheet_130
+  - first:
+      213: 8654190855189749182
+    second: 16x32 All Animations-Sheet_131
+  - first:
+      213: 644354926958765089
+    second: 16x32 All Animations-Sheet_132
+  - first:
+      213: -8431670074809689139
+    second: 16x32 All Animations-Sheet_133
+  - first:
+      213: -6483833069247246495
+    second: 16x32 All Animations-Sheet_134
+  - first:
+      213: 326279541797031017
+    second: 16x32 All Animations-Sheet_135
+  - first:
+      213: 1417994844433359779
+    second: 16x32 All Animations-Sheet_136
+  - first:
+      213: 7405179132793421764
+    second: 16x32 All Animations-Sheet_137
+  - first:
+      213: -3335691619135526052
+    second: 16x32 All Animations-Sheet_138
+  - first:
+      213: 6495766072762387453
+    second: 16x32 All Animations-Sheet_139
+  - first:
+      213: 4949121472790465783
+    second: 16x32 All Animations-Sheet_140
+  - first:
+      213: -1268266204778778537
+    second: 16x32 All Animations-Sheet_141
+  - first:
+      213: -3387847507180353184
+    second: 16x32 All Animations-Sheet_142
+  - first:
+      213: -2399150233252199793
+    second: 16x32 All Animations-Sheet_143
+  - first:
+      213: -820255847893717296
+    second: 16x32 All Animations-Sheet_144
+  - first:
+      213: -4402991515335713045
+    second: 16x32 All Animations-Sheet_145
+  - first:
+      213: -5467151637299833599
+    second: 16x32 All Animations-Sheet_146
+  - first:
+      213: 6404251337570148217
+    second: 16x32 All Animations-Sheet_147
+  - first:
+      213: 7047533133098991048
+    second: 16x32 All Animations-Sheet_148
+  - first:
+      213: -5257782078231359340
+    second: 16x32 All Animations-Sheet_149
+  - first:
+      213: -3431725092842349782
+    second: 16x32 All Animations-Sheet_150
+  - first:
+      213: 4324430312381708057
+    second: 16x32 All Animations-Sheet_151
+  - first:
+      213: 8599196490326875227
+    second: 16x32 All Animations-Sheet_152
+  - first:
+      213: 3842410238082719887
+    second: 16x32 All Animations-Sheet_153
+  - first:
+      213: 4771039142172594107
+    second: 16x32 All Animations-Sheet_154
+  - first:
+      213: -7049152373151853863
+    second: 16x32 All Animations-Sheet_155
+  - first:
+      213: 5859543164110791156
+    second: 16x32 All Animations-Sheet_156
+  - first:
+      213: 1502594154404126202
+    second: 16x32 All Animations-Sheet_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2b8b2fb9711d440800000000000000
+      internalID: 4958770623271187148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 191
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf156726d41e41bb0800000000000000
+      internalID: -4966096766602161669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 191
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572c770d26f8666f0800000000000000
+      internalID: -691707838187715979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc973be7803c9c260800000000000000
+      internalID: 7118435127288625613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 191
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c719c4d2e8f55c110800000000000000
+      internalID: 1280534733306761596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 191
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e7139ea44cf0100800000000000000
+      internalID: 76495544707546760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 191
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca803592bf389a4c0800000000000000
+      internalID: -4275741256458237780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 191
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a245e87dfe500b0800000000000000
+      internalID: -5762936439065793914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1451952cb3a37bf0800000000000000
+      internalID: -327738319388453857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eecd88af59ecd40800000000000000
+      internalID: 5606583489393389119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dc19a3f387996e0800000000000000
+      internalID: -1830299560588489412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e497e45540213040800000000000000
+      internalID: 4625513774435505376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 159
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6310160c3fc40a8a0800000000000000
+      internalID: -6295947669275606730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 159
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e34843cfa31220800000000000000
+      internalID: 2455499475112943962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 159
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6870e02a283d7a780800000000000000
+      internalID: -8671729999460563066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 159
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46232ccf5dc21acc0800000000000000
+      internalID: -3701628121141595548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 159
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e719d2a8e4112ff0800000000000000
+      internalID: -62745930409371679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 159
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084ddf2a985a40140800000000000000
+      internalID: 4685051522935805056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 159
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3530e97bfa6372780800000000000000
+      internalID: -8707931226169801901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 159
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d750f29eda672060800000000000000
+      internalID: 6928624055913306066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0255b198303408690800000000000000
+      internalID: -7602002488537164512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 159
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdce27c836ee9f210800000000000000
+      internalID: 1367386073209171164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 159
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d7138cacd7f8d50800000000000000
+      internalID: 6741745477092474223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3467a9a927e45240800000000000000
+      internalID: 4779699270672933947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13532a4b50262730800000000000000
+      internalID: 3973899297658983195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 159
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22dbe23ea969e9d0800000000000000
+      internalID: -2744546301006065108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 159
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e213d155f5b2ffe10800000000000000
+      internalID: 2233551628648919342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63adb0c6d9aef780800000000000000
+      internalID: -8647287494683024534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74734472a5e985250800000000000000
+      internalID: 5933666619103655751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a52014e9c42db60800000000000000
+      internalID: 7769356549746743836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7435fa229ac48690800000000000000
+      internalID: -7600727541959805827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417713a9075894120800000000000000
+      internalID: 2398594995221264148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 127
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42499c38de6952bf0800000000000000
+      internalID: -349707449188903900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ab25a8d1dfe6b20800000000000000
+      internalID: 3129717094385629748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3977c20974b63e440800000000000000
+      internalID: 4963929169398101907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c760203ec701dff0800000000000000
+      internalID: -13220741753313339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 127
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff97bd1bfdf207f0800000000000000
+      internalID: -647676141410738178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 127
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930e97ca83cd6cd50800000000000000
+      internalID: 6757330426885955641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 127
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76708ba160b2eea80800000000000000
+      internalID: -8435757746800294041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 127
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aee76effbb708e60800000000000000
+      internalID: 7962500205728231078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee49f4de06d624d0800000000000000
+      internalID: -3159602729362829592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 129
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3408b5bb03852760800000000000000
+      internalID: 7432490846361486397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5064b65eef73fe760800000000000000
+      internalID: 7489266273250657797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b56143fd09022e0800000000000000
+      internalID: -2152561333557109915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a573d5a4a5e4c5c0800000000000000
+      internalID: -4195976457482963548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 128
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f1f080c2a0f3f0800000000000000
+      internalID: -869015780401743920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f239aa917b00690800000000000000
+      internalID: -7637903647156523105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 128
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848accd37bcaf420800000000000000
+      internalID: 2664665828029006987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ced0230803c463f0800000000000000
+      internalID: -908386785642357053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d144faf135aed00800000000000000
+      internalID: 1002705262592925075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ef99c5f9f69010800000000000000
+      internalID: 1195417585158449553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d61fd552f67da0800000000000000
+      internalID: -5947299807267204616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4206255650a97c180800000000000000
+      internalID: -9095131574486015964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4591cae9a2a29970800000000000000
+      internalID: 8760243075860763981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 97
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d60f58db1e7a0b80800000000000000
+      internalID: -8427785094611138861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79ca5d331acb95a0800000000000000
+      internalID: -6513390252078741126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 95
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adb16160d59cfc30800000000000000
+      internalID: 4394552058626293160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 97
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd5c0506d03df7a0800000000000000
+      internalID: -6341859004501959211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 96
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8feb8b57376ff0800000000000000
+      internalID: -43004805107446274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 95
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6276a4f5352779900800000000000000
+      internalID: 691146770231224102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 95
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e1c41d4895c5910800000000000000
+      internalID: 1827433975787560548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 96
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e8e02bd6dee520800000000000000
+      internalID: 2733358260498785681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 95
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617c1d286e25b150800000000000000
+      internalID: 5887663112825106784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 95
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35001d9fe4e18a0f0800000000000000
+      internalID: -1105600383971950509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 96
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66b01d7ca13d0200800000000000000
+      internalID: 147828979675477614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 95
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0e4b46ae3851ca0800000000000000
+      internalID: -6046781881939861273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 97
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c4fa4dad0c5540800000000000000
+      internalID: 4997884724412467061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 96
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311a943b6db10f370800000000000000
+      internalID: 8354207917717168403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171f96613c0c8b70800000000000000
+      internalID: 8902503969719260955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 97
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3eb58abe77463c0800000000000000
+      internalID: -4367233884616924197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 96
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e8adb1a144825f0800000000000000
+      internalID: -781299656421634484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173305ba3cf8c780800000000000000
+      internalID: -8662396554171959527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 97
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f416a32272a5a870800000000000000
+      internalID: 8693533266816668918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 95
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ea395ef7df51760800000000000000
+      internalID: 7428121886171835951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869240ad9692b43e0800000000000000
+      internalID: -2068514069240600216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 97
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ced5258e809df10800000000000000
+      internalID: 2294875279029300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 95
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e8f8741fb47aac0800000000000000
+      internalID: -3844020257277637004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e19638616a097c0800000000000000
+      internalID: -4066567847891362157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bbd1c1d5e3421f0800000000000000
+      internalID: -1070662241782744210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c073491fea8b3080800000000000000
+      internalID: -9206612253703180089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb8ec1a921c3e220800000000000000
+      internalID: 2514065401555356643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bdcb2aaf3f70ec0800000000000000
+      internalID: -3600641119261762745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea268a95668da730800000000000000
+      internalID: 4012010613999282922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 63
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e193e4b0564bed970800000000000000
+      internalID: 8781654669493418270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 63
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd582a5944b8bd90800000000000000
+      internalID: -7081712186901897770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 63
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f187db91d1fae0800000000000000
+      internalID: -1517201132181392985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 63
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc511d3e1ccf6d0800000000000000
+      internalID: -2955274071252284592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 63
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9db8305fc5bd440800000000000000
+      internalID: 4961661621874973089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 63
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220d04b2591ea920800000000000000
+      internalID: 3003365844501463586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 63
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4199a1e056f5ee0800000000000000
+      internalID: -1270185458645003033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cf6f9b2dd85d000800000000000000
+      internalID: 60110106241989749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 63
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7a0ee9bf8156a0800000000000000
+      internalID: -6462225961574564427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f711e936e7ae250800000000000000
+      internalID: 5974726821979193152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 63
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba30838f48e3c850800000000000000
+      internalID: 6396211324002515646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee1c366261b3f20800000000000000
+      internalID: 3403338297546763936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 63
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d3e2cac22888e0800000000000000
+      internalID: -1691063405829172471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 63
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc39860eb5ac1560800000000000000
+      internalID: 7285880532750646474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 63
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962f3f2c502fe7d70800000000000000
+      internalID: 9042931208366060137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec9f2246733c4130800000000000000
+      internalID: 3552270789098052838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 31
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261855d6051f5140800000000000000
+      internalID: 4710506854346135086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8c03f71dda9d10800000000000000
+      internalID: 2133260468445024074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4810d11e4fecd83b0800000000000000
+      internalID: -5508519218060131964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 31
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675f14f58f6a96230800000000000000
+      internalID: 3632618160131274102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 31
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc22f96bc4622a610800000000000000
+      internalID: 1630908125984793291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcce782dbbc66750800000000000000
+      internalID: 6297945142212873436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 36
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a04cb29facfa50800000000000000
+      internalID: 6556308202303038846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 33
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746ff254cd846b90800000000000000
+      internalID: -7249513625814080387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 31
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d466e17aecc4a0800000000000000
+      internalID: -6571619981322824397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 31
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3393dd16c30d330800000000000000
+      internalID: 3733550482111149014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 31
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f8031c3797a8700800000000000000
+      internalID: 543380243120951192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 35
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5adfdc8657d99dd0800000000000000
+      internalID: -2478713353160107430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 33
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfc0338e76852bc0800000000000000
+      internalID: -3808490031946870842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 31
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91a2fc8b2d7f0610800000000000000
+      internalID: 1589626819486851483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 31
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c92dbcc3d9991c20800000000000000
+      internalID: 3177740147038693833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 31
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194fe4e83bf67150800000000000000
+      internalID: 5870155386101647642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 35
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d0a101913fbd0d0800000000000000
+      internalID: -3396854204951032494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 33
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c2278e375d1ae0800000000000000
+      internalID: -1577008368443014892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 31
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c74c7b8f7ec5560800000000000000
+      internalID: 7303967751109115005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 31
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba2641511f885d0800000000000000
+      internalID: -3059930873959633962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 31
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da5ed8959294a6f0800000000000000
+      internalID: -674252872986240297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 36
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b688ff8dafe5edfd0800000000000000
+      internalID: -2315308726946396053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 33
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67201bf95ef7616b0800000000000000
+      internalID: -5325928885115616650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 31
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295579128f6e6fc20800000000000000
+      internalID: 3240030935329494418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa5da8cffe22e80800000000000000
+      internalID: -8204731703175565380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3d579c82da09f90800000000000000
+      internalID: -6948863834342435867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9061f1538b1ad0800000000000000
+      internalID: -2730444361104844217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3ccda41e7456050800000000000000
+      internalID: 5793115528631206860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2fb703edfa61080800000000000000
+      internalID: -9216986218536111361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75a4225dfcf0d80800000000000000
+      internalID: -8282172675400771586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba3dfbfd8fc52d70800000000000000
+      internalID: 9017842037604301503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db840d6761b332e10800000000000000
+      internalID: 2171644412991391933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd40e1bbcd91870800000000000000
+      internalID: 8654190855189749182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12466a2646531f800800000000000000
+      internalID: 644354926958765089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb5da76db0bcfa80800000000000000
+      internalID: -8431670074809689139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f46942d2cc406a0800000000000000
+      internalID: -6483833069247246495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c0a4ab38d278400800000000000000
+      internalID: 326279541797031017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a329c35ccabda310800000000000000
+      internalID: 1417994844433359779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf794cdf2b74c660800000000000000
+      internalID: 7405179132793421764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bed29452e35b1d0800000000000000
+      internalID: -3335691619135526052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb490fb3d8952a50800000000000000
+      internalID: 6495766072762387453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc0fe702cfcea440800000000000000
+      internalID: 4949121472790465783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75037873b96366ee0800000000000000
+      internalID: -1268266204778778537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069825d44a2fbf0d0800000000000000
+      internalID: -3387847507180353184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f820538f29184bed0800000000000000
+      internalID: -2399150233252199793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deab59f6addd94f0800000000000000
+      internalID: -820255847893717296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1b5b7b8e65e2c0800000000000000
+      internalID: -4402991515335713045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1055c855d86c024b0800000000000000
+      internalID: -5467151637299833599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f503c09a870e850800000000000000
+      internalID: 6404251337570148217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd392d8b0eddc160800000000000000
+      internalID: 7047533133098991048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490da988e0b9807b0800000000000000
+      internalID: -5257782078231359340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b565ac5301060d0800000000000000
+      internalID: -3431725092842349782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91771711576730c30800000000000000
+      internalID: 4324430312381708057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c18bfb5ab765770800000000000000
+      internalID: 8599196490326875227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ae3ae0cbf25530800000000000000
+      internalID: 3842410238082719887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf8eae52d2263240800000000000000
+      internalID: 4771039142172594107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d29eaeb3416c2e90800000000000000
+      internalID: -7049152373151853863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f164ea6677415150800000000000000
+      internalID: 5859543164110791156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x32 All Animations-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd16de1c694ad410800000000000000
+      internalID: 1502594154404126202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      16x32 All Animations-Sheet_0: 4958770623271187148
+      16x32 All Animations-Sheet_1: -4966096766602161669
+      16x32 All Animations-Sheet_10: -1830299560588489412
+      16x32 All Animations-Sheet_100: 2133260468445024074
+      16x32 All Animations-Sheet_101: -5508519218060131964
+      16x32 All Animations-Sheet_102: 3632618160131274102
+      16x32 All Animations-Sheet_103: 1630908125984793291
+      16x32 All Animations-Sheet_104: 6297945142212873436
+      16x32 All Animations-Sheet_105: 6556308202303038846
+      16x32 All Animations-Sheet_106: -7249513625814080387
+      16x32 All Animations-Sheet_107: -6571619981322824397
+      16x32 All Animations-Sheet_108: 3733550482111149014
+      16x32 All Animations-Sheet_109: 543380243120951192
+      16x32 All Animations-Sheet_11: 4625513774435505376
+      16x32 All Animations-Sheet_110: -2478713353160107430
+      16x32 All Animations-Sheet_111: -3808490031946870842
+      16x32 All Animations-Sheet_112: 1589626819486851483
+      16x32 All Animations-Sheet_113: 3177740147038693833
+      16x32 All Animations-Sheet_114: 5870155386101647642
+      16x32 All Animations-Sheet_115: -3396854204951032494
+      16x32 All Animations-Sheet_116: -1577008368443014892
+      16x32 All Animations-Sheet_117: 7303967751109115005
+      16x32 All Animations-Sheet_118: -3059930873959633962
+      16x32 All Animations-Sheet_119: -674252872986240297
+      16x32 All Animations-Sheet_12: -6295947669275606730
+      16x32 All Animations-Sheet_120: -2315308726946396053
+      16x32 All Animations-Sheet_121: -5325928885115616650
+      16x32 All Animations-Sheet_122: 3240030935329494418
+      16x32 All Animations-Sheet_123: -8204731703175565380
+      16x32 All Animations-Sheet_124: -6948863834342435867
+      16x32 All Animations-Sheet_125: -2730444361104844217
+      16x32 All Animations-Sheet_126: 5793115528631206860
+      16x32 All Animations-Sheet_127: -9216986218536111361
+      16x32 All Animations-Sheet_128: -8282172675400771586
+      16x32 All Animations-Sheet_129: 9017842037604301503
+      16x32 All Animations-Sheet_13: 2455499475112943962
+      16x32 All Animations-Sheet_130: 2171644412991391933
+      16x32 All Animations-Sheet_131: 8654190855189749182
+      16x32 All Animations-Sheet_132: 644354926958765089
+      16x32 All Animations-Sheet_133: -8431670074809689139
+      16x32 All Animations-Sheet_134: -6483833069247246495
+      16x32 All Animations-Sheet_135: 326279541797031017
+      16x32 All Animations-Sheet_136: 1417994844433359779
+      16x32 All Animations-Sheet_137: 7405179132793421764
+      16x32 All Animations-Sheet_138: -3335691619135526052
+      16x32 All Animations-Sheet_139: 6495766072762387453
+      16x32 All Animations-Sheet_14: -8671729999460563066
+      16x32 All Animations-Sheet_140: 4949121472790465783
+      16x32 All Animations-Sheet_141: -1268266204778778537
+      16x32 All Animations-Sheet_142: -3387847507180353184
+      16x32 All Animations-Sheet_143: -2399150233252199793
+      16x32 All Animations-Sheet_144: -820255847893717296
+      16x32 All Animations-Sheet_145: -4402991515335713045
+      16x32 All Animations-Sheet_146: -5467151637299833599
+      16x32 All Animations-Sheet_147: 6404251337570148217
+      16x32 All Animations-Sheet_148: 7047533133098991048
+      16x32 All Animations-Sheet_149: -5257782078231359340
+      16x32 All Animations-Sheet_15: -3701628121141595548
+      16x32 All Animations-Sheet_150: -3431725092842349782
+      16x32 All Animations-Sheet_151: 4324430312381708057
+      16x32 All Animations-Sheet_152: 8599196490326875227
+      16x32 All Animations-Sheet_153: 3842410238082719887
+      16x32 All Animations-Sheet_154: 4771039142172594107
+      16x32 All Animations-Sheet_155: -7049152373151853863
+      16x32 All Animations-Sheet_156: 5859543164110791156
+      16x32 All Animations-Sheet_157: 1502594154404126202
+      16x32 All Animations-Sheet_16: -62745930409371679
+      16x32 All Animations-Sheet_17: 4685051522935805056
+      16x32 All Animations-Sheet_18: -8707931226169801901
+      16x32 All Animations-Sheet_19: 6928624055913306066
+      16x32 All Animations-Sheet_2: -691707838187715979
+      16x32 All Animations-Sheet_20: -7602002488537164512
+      16x32 All Animations-Sheet_21: 1367386073209171164
+      16x32 All Animations-Sheet_22: 6741745477092474223
+      16x32 All Animations-Sheet_23: 4779699270672933947
+      16x32 All Animations-Sheet_24: 3973899297658983195
+      16x32 All Animations-Sheet_25: -2744546301006065108
+      16x32 All Animations-Sheet_26: 2233551628648919342
+      16x32 All Animations-Sheet_27: -8647287494683024534
+      16x32 All Animations-Sheet_28: 5933666619103655751
+      16x32 All Animations-Sheet_29: 7769356549746743836
+      16x32 All Animations-Sheet_3: 7118435127288625613
+      16x32 All Animations-Sheet_30: -7600727541959805827
+      16x32 All Animations-Sheet_31: 2398594995221264148
+      16x32 All Animations-Sheet_32: -349707449188903900
+      16x32 All Animations-Sheet_33: 3129717094385629748
+      16x32 All Animations-Sheet_34: 4963929169398101907
+      16x32 All Animations-Sheet_35: -13220741753313339
+      16x32 All Animations-Sheet_36: -647676141410738178
+      16x32 All Animations-Sheet_37: 6757330426885955641
+      16x32 All Animations-Sheet_38: -8435757746800294041
+      16x32 All Animations-Sheet_39: 7962500205728231078
+      16x32 All Animations-Sheet_4: 1280534733306761596
+      16x32 All Animations-Sheet_40: -3159602729362829592
+      16x32 All Animations-Sheet_41: 7432490846361486397
+      16x32 All Animations-Sheet_42: 7489266273250657797
+      16x32 All Animations-Sheet_43: -2152561333557109915
+      16x32 All Animations-Sheet_44: -4195976457482963548
+      16x32 All Animations-Sheet_45: -869015780401743920
+      16x32 All Animations-Sheet_46: -7637903647156523105
+      16x32 All Animations-Sheet_47: 2664665828029006987
+      16x32 All Animations-Sheet_48: -908386785642357053
+      16x32 All Animations-Sheet_49: 1002705262592925075
+      16x32 All Animations-Sheet_5: 76495544707546760
+      16x32 All Animations-Sheet_50: 1195417585158449553
+      16x32 All Animations-Sheet_51: -5947299807267204616
+      16x32 All Animations-Sheet_52: -9095131574486015964
+      16x32 All Animations-Sheet_53: 8760243075860763981
+      16x32 All Animations-Sheet_54: -8427785094611138861
+      16x32 All Animations-Sheet_55: -6513390252078741126
+      16x32 All Animations-Sheet_56: 4394552058626293160
+      16x32 All Animations-Sheet_57: -6341859004501959211
+      16x32 All Animations-Sheet_58: -43004805107446274
+      16x32 All Animations-Sheet_59: 691146770231224102
+      16x32 All Animations-Sheet_6: -4275741256458237780
+      16x32 All Animations-Sheet_60: 1827433975787560548
+      16x32 All Animations-Sheet_61: 2733358260498785681
+      16x32 All Animations-Sheet_62: 5887663112825106784
+      16x32 All Animations-Sheet_63: -1105600383971950509
+      16x32 All Animations-Sheet_64: 147828979675477614
+      16x32 All Animations-Sheet_65: -6046781881939861273
+      16x32 All Animations-Sheet_66: 4997884724412467061
+      16x32 All Animations-Sheet_67: 8354207917717168403
+      16x32 All Animations-Sheet_68: 8902503969719260955
+      16x32 All Animations-Sheet_69: -4367233884616924197
+      16x32 All Animations-Sheet_7: -5762936439065793914
+      16x32 All Animations-Sheet_70: -781299656421634484
+      16x32 All Animations-Sheet_71: -8662396554171959527
+      16x32 All Animations-Sheet_72: 8693533266816668918
+      16x32 All Animations-Sheet_73: 7428121886171835951
+      16x32 All Animations-Sheet_74: -2068514069240600216
+      16x32 All Animations-Sheet_75: 2294875279029300294
+      16x32 All Animations-Sheet_76: -3844020257277637004
+      16x32 All Animations-Sheet_77: -4066567847891362157
+      16x32 All Animations-Sheet_78: -1070662241782744210
+      16x32 All Animations-Sheet_79: -9206612253703180089
+      16x32 All Animations-Sheet_8: -327738319388453857
+      16x32 All Animations-Sheet_80: 2514065401555356643
+      16x32 All Animations-Sheet_81: -3600641119261762745
+      16x32 All Animations-Sheet_82: 4012010613999282922
+      16x32 All Animations-Sheet_83: 8781654669493418270
+      16x32 All Animations-Sheet_84: -7081712186901897770
+      16x32 All Animations-Sheet_85: -1517201132181392985
+      16x32 All Animations-Sheet_86: -2955274071252284592
+      16x32 All Animations-Sheet_87: 4961661621874973089
+      16x32 All Animations-Sheet_88: 3003365844501463586
+      16x32 All Animations-Sheet_89: -1270185458645003033
+      16x32 All Animations-Sheet_9: 5606583489393389119
+      16x32 All Animations-Sheet_90: 60110106241989749
+      16x32 All Animations-Sheet_91: -6462225961574564427
+      16x32 All Animations-Sheet_92: 5974726821979193152
+      16x32 All Animations-Sheet_93: 6396211324002515646
+      16x32 All Animations-Sheet_94: 3403338297546763936
+      16x32 All Animations-Sheet_95: -1691063405829172471
+      16x32 All Animations-Sheet_96: 7285880532750646474
+      16x32 All Animations-Sheet_97: 9042931208366060137
+      16x32 All Animations-Sheet_98: 3552270789098052838
+      16x32 All Animations-Sheet_99: 4710506854346135086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

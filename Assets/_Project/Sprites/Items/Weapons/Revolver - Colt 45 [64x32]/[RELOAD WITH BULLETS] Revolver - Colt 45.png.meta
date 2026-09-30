@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 74587d113c970953cbbe7cf56ffc0caa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1656522047160072425
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_0'
+  - first:
+      213: -5723544900196261509
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_1'
+  - first:
+      213: -2963631133832256670
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_2'
+  - first:
+      213: -6873437497201166387
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_3'
+  - first:
+      213: -5220834800482697551
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_4'
+  - first:
+      213: 8743270973590692191
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_5'
+  - first:
+      213: -8750379900951376052
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_6'
+  - first:
+      213: 6649957901032734605
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_7'
+  - first:
+      213: 5544117171934912747
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_8'
+  - first:
+      213: -8351064800954870369
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_9'
+  - first:
+      213: -4507827714495149090
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_10'
+  - first:
+      213: 8076320441439717886
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_11'
+  - first:
+      213: -959028699689889502
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_12'
+  - first:
+      213: -2938447256702373252
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_13'
+  - first:
+      213: -6161009548369531918
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_14'
+  - first:
+      213: 6602144281034558335
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_15'
+  - first:
+      213: -5026804549569340332
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_16'
+  - first:
+      213: -1624798242915139290
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_17'
+  - first:
+      213: -5089833974022317689
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_18'
+  - first:
+      213: 4667515479963354541
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_19'
+  - first:
+      213: 1063448529536737400
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_20'
+  - first:
+      213: -6359299217305781035
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_21'
+  - first:
+      213: 4628430019028179931
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_22'
+  - first:
+      213: 1829329897158959036
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_23'
+  - first:
+      213: 122736183561264626
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_24'
+  - first:
+      213: 1829515926259275830
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_25'
+  - first:
+      213: 2770157894833483117
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_26'
+  - first:
+      213: -5170446900159895810
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_27'
+  - first:
+      213: 7817184379964046155
+    second: '[RELOAD WITH BULLETS] Revolver - Colt 45_28'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_0'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717cb6889f9d209e0800000000000000
+      internalID: -1656522047160072425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_1'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71adc7ec32e190b0800000000000000
+      internalID: -5723544900196261509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_2'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263e3ae8f211fd6d0800000000000000
+      internalID: -2963631133832256670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_3'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc779796305ac90a0800000000000000
+      internalID: -6873437497201166387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_4'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be3b3ef86edb87b0800000000000000
+      internalID: -5220834800482697551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_5'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f516bdb60a6565970800000000000000
+      internalID: 8743270973590692191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_6'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f431277d7609680800000000000000
+      internalID: -8750379900951376052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_7'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fbb5e5a75694c50800000000000000
+      internalID: 6649957901032734605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_8'
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0e252a139a0fc40800000000000000
+      internalID: 5544117171934912747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_9'
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9511d23fce0b1c80800000000000000
+      internalID: -8351064800954870369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_10'
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb0bd0c39af071c0800000000000000
+      internalID: -4507827714495149090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_11'
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef98d3cb6aad41070800000000000000
+      internalID: 8076320441439717886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_12'
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22154919a78d0b2f0800000000000000
+      internalID: -959028699689889502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_13'
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b801e9c98837d0800000000000000
+      internalID: -2938447256702373252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_14'
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe4ab4572bf7aa0800000000000000
+      internalID: -6161009548369531918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_15'
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b01f27e378f9b50800000000000000
+      internalID: 6602144281034558335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_16'
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c1a9335e33d3ab0800000000000000
+      internalID: -5026804549569340332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_17'
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6214d5b4b9e8379e0800000000000000
+      internalID: -1624798242915139290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_18'
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7895facb7f64d59b0800000000000000
+      internalID: -5089833974022317689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_19'
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54ad6799856c040800000000000000
+      internalID: 4667515479963354541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_20'
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870e2ff9dc022ce00800000000000000
+      internalID: 1063448529536737400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_21'
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcb11c0e0b3fb7a0800000000000000
+      internalID: -6359299217305781035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_22'
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbddef649c7b3040800000000000000
+      internalID: 4628430019028179931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_23'
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf592969d5136910800000000000000
+      internalID: 1829329897158959036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_24'
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd914e98eb04b100800000000000000
+      internalID: 122736183561264626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_25'
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6389a9faa0fb36910800000000000000
+      internalID: 1829515926259275830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_26'
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2b4dade3917620800000000000000
+      internalID: 2770157894833483117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_27'
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 3
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef623f140f1ee38b0800000000000000
+      internalID: -5170446900159895810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[RELOAD WITH BULLETS] Revolver - Colt 45_28'
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3d7fb6c73c7c60800000000000000
+      internalID: 7817184379964046155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_0': -1656522047160072425
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_1': -5723544900196261509
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_10': -4507827714495149090
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_11': 8076320441439717886
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_12': -959028699689889502
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_13': -2938447256702373252
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_14': -6161009548369531918
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_15': 6602144281034558335
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_16': -5026804549569340332
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_17': -1624798242915139290
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_18': -5089833974022317689
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_19': 4667515479963354541
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_2': -2963631133832256670
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_20': 1063448529536737400
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_21': -6359299217305781035
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_22': 4628430019028179931
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_23': 1829329897158959036
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_24': 122736183561264626
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_25': 1829515926259275830
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_26': 2770157894833483117
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_27': -5170446900159895810
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_28': 7817184379964046155
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_3': -6873437497201166387
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_4': -5220834800482697551
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_5': 8743270973590692191
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_6': -8750379900951376052
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_7': 6649957901032734605
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_8': 5544117171934912747
+      '[RELOAD WITH BULLETS] Revolver - Colt 45_9': -8351064800954870369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
